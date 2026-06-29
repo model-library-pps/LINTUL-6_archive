@@ -1,0 +1,4 @@
+* RUNNAME  IYEAR IDSTART  INYEAR   INROT   STATR  SENSP   SENSV   SENSW   SENSR  SENST  CO   ISOIL IROT  IOUT       WTRDIR                                  REMARK        CONTIN
+'WARO1'    1969     1       5       4     'WAGE'   1.      1.       1.     1.     0.   370.   1     1    10          ''                      'Wageningen, rotation 1'      'N'
+'WARO2'    1969     1       4       3     'WAGE'   1.      1.       1.     1.     0.   370.   1     1    10          ''                      'Wageningen, rotation 2'      'N'
+'WARO3'    1969     1      10       2     'WAGE'   1.      1.       1.     1.     0.   370.   1     1    10          ''                      'Wageningen, rotation 3'      'N'                                            

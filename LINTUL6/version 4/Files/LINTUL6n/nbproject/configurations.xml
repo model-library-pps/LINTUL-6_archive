@@ -1,0 +1,217 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<configurationDescriptor version="89">
+  <logicalFolder name="root" displayName="root" projectFiles="true" kind="ROOT">
+    <logicalFolder name="HeaderFiles"
+                   displayName="Header Files"
+                   projectFiles="true">
+    </logicalFolder>
+    <logicalFolder name="ResourceFiles"
+                   displayName="Resource Files"
+                   projectFiles="true">
+      <logicalFolder name="SOURCENEW" displayName="SOURCENEW" projectFiles="true">
+        <itemPath>../SOURCENEW/Cropv6.for</itemPath>
+        <itemPath>../SOURCENEW/Dailout6.for</itemPath>
+        <itemPath>../SOURCENEW/INITP6.for</itemPath>
+        <itemPath>../SOURCENEW/LINTULSUB.for</itemPath>
+        <itemPath>../SOURCENEW/STOUT6.for</itemPath>
+        <itemPath>../SOURCENEW/SWEAF.for</itemPath>
+        <itemPath>../SOURCENEW/Timer6.for</itemPath>
+        <itemPath>../SOURCENEW/WATBALS6.for</itemPath>
+        <itemPath>../SOURCENEW/WEATHR.for</itemPath>
+      </logicalFolder>
+      <logicalFolder name="ttutil" displayName="ttutil" projectFiles="true">
+        <itemPath>../LIBRARY/CLS.for</itemPath>
+        <itemPath>../LIBRWOF/ttutil/aux_routines.for</itemPath>
+        <itemPath>../LIBRWOF/ttutil/lextokin.inc</itemPath>
+        <itemPath>../LIBRWOF/ttutil/rddata.inc</itemPath>
+        <itemPath>../LIBRWOF/ttutil/rddecinf.inc</itemPath>
+        <itemPath>../LIBRWOF/ttutil/rderrinf.inc</itemPath>
+        <itemPath>../LIBRWOF/ttutil/rdfilinf.inc</itemPath>
+        <itemPath>../LIBRWOF/ttutil/rdjdat.gin</itemPath>
+        <itemPath>../LIBRWOF/ttutil/rdjdec.gin</itemPath>
+        <itemPath>../LIBRWOF/ttutil/rdmachin.gin</itemPath>
+        <itemPath>../LIBRWOF/ttutil/rdmachin.inc</itemPath>
+        <itemPath>../LIBRWOF/ttutil/rdndat.gin</itemPath>
+        <itemPath>../LIBRWOF/ttutil/rdndec.gin</itemPath>
+        <itemPath>../LIBRWOF/ttutil/rdrecinf.inc</itemPath>
+        <itemPath>../LIBRWOF/ttutil/rdstainf.inc</itemPath>
+        <itemPath>../LIBRWOF/ttutil/rdtblinf.inc</itemPath>
+        <itemPath>../LIBRWOF/ttutil/recread.inc</itemPath>
+        <itemPath>../LIBRWOF/ttutil/ttutil_win32.for</itemPath>
+        <itemPath>../LIBRWOF/ttutil/wr_sys.inc</itemPath>
+      </logicalFolder>
+    </logicalFolder>
+    <logicalFolder name="SourceFiles"
+                   displayName="Source Files"
+                   projectFiles="true">
+      <itemPath>../Lintul6vr.for</itemPath>
+    </logicalFolder>
+    <logicalFolder name="TestFiles"
+                   displayName="Test Files"
+                   projectFiles="false"
+                   kind="TEST_LOGICAL_FOLDER">
+    </logicalFolder>
+    <logicalFolder name="ExternalFiles"
+                   displayName="Important Files"
+                   projectFiles="false"
+                   kind="IMPORTANT_FILES_FOLDER">
+      <itemPath>Makefile</itemPath>
+    </logicalFolder>
+  </logicalFolder>
+  <sourceRootList>
+    <Elem>../SOURCENEW</Elem>
+    <Elem>../LIBRARY</Elem>
+    <Elem>../LIBRWOF</Elem>
+  </sourceRootList>
+  <projectmakefile>Makefile</projectmakefile>
+  <confs>
+    <conf name="Debug" type="1">
+      <toolsSet>
+        <remote-sources-mode>LOCAL_SOURCES</remote-sources-mode>
+        <compilerSet>default</compilerSet>
+        <dependencyChecking>true</dependencyChecking>
+        <rebuildPropChanged>false</rebuildPropChanged>
+      </toolsSet>
+      <compileType>
+      </compileType>
+      <item path="../LIBRARY/CLS.for" ex="false" tool="2" flavor2="0">
+      </item>
+      <item path="../LIBRWOF/ttutil/aux_routines.for" ex="false" tool="2" flavor2="0">
+      </item>
+      <item path="../LIBRWOF/ttutil/lextokin.inc" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="../LIBRWOF/ttutil/rddata.inc" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="../LIBRWOF/ttutil/rddecinf.inc" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="../LIBRWOF/ttutil/rderrinf.inc" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="../LIBRWOF/ttutil/rdfilinf.inc" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="../LIBRWOF/ttutil/rdjdat.gin" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="../LIBRWOF/ttutil/rdjdec.gin" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="../LIBRWOF/ttutil/rdmachin.gin" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="../LIBRWOF/ttutil/rdmachin.inc" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="../LIBRWOF/ttutil/rdndat.gin" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="../LIBRWOF/ttutil/rdndec.gin" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="../LIBRWOF/ttutil/rdrecinf.inc" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="../LIBRWOF/ttutil/rdstainf.inc" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="../LIBRWOF/ttutil/rdtblinf.inc" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="../LIBRWOF/ttutil/recread.inc" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="../LIBRWOF/ttutil/ttutil_win32.for" ex="false" tool="2" flavor2="0">
+      </item>
+      <item path="../LIBRWOF/ttutil/wr_sys.inc" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="../Lintul6vr.for" ex="false" tool="2" flavor2="0">
+      </item>
+      <item path="../SOURCENEW/Cropv6.for" ex="false" tool="2" flavor2="0">
+      </item>
+      <item path="../SOURCENEW/Dailout6.for" ex="false" tool="2" flavor2="0">
+      </item>
+      <item path="../SOURCENEW/INITP6.for" ex="false" tool="2" flavor2="0">
+      </item>
+      <item path="../SOURCENEW/LINTULSUB.for" ex="false" tool="2" flavor2="0">
+      </item>
+      <item path="../SOURCENEW/STOUT6.for" ex="false" tool="2" flavor2="0">
+      </item>
+      <item path="../SOURCENEW/SWEAF.for" ex="false" tool="2" flavor2="0">
+      </item>
+      <item path="../SOURCENEW/Timer6.for" ex="false" tool="2" flavor2="0">
+      </item>
+      <item path="../SOURCENEW/WATBALS6.for" ex="false" tool="2" flavor2="0">
+      </item>
+      <item path="../SOURCENEW/WEATHR.for" ex="false" tool="2" flavor2="0">
+      </item>
+    </conf>
+    <conf name="Release" type="1">
+      <toolsSet>
+        <remote-sources-mode>LOCAL_SOURCES</remote-sources-mode>
+        <compilerSet>default</compilerSet>
+        <dependencyChecking>true</dependencyChecking>
+        <rebuildPropChanged>false</rebuildPropChanged>
+      </toolsSet>
+      <compileType>
+        <cTool>
+          <developmentMode>5</developmentMode>
+        </cTool>
+        <ccTool>
+          <developmentMode>5</developmentMode>
+        </ccTool>
+        <fortranCompilerTool>
+          <developmentMode>5</developmentMode>
+        </fortranCompilerTool>
+        <asmTool>
+          <developmentMode>5</developmentMode>
+        </asmTool>
+      </compileType>
+      <item path="../LIBRARY/CLS.for" ex="false" tool="2" flavor2="0">
+      </item>
+      <item path="../LIBRWOF/ttutil/aux_routines.for" ex="false" tool="2" flavor2="0">
+      </item>
+      <item path="../LIBRWOF/ttutil/lextokin.inc" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="../LIBRWOF/ttutil/rddata.inc" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="../LIBRWOF/ttutil/rddecinf.inc" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="../LIBRWOF/ttutil/rderrinf.inc" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="../LIBRWOF/ttutil/rdfilinf.inc" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="../LIBRWOF/ttutil/rdjdat.gin" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="../LIBRWOF/ttutil/rdjdec.gin" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="../LIBRWOF/ttutil/rdmachin.gin" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="../LIBRWOF/ttutil/rdmachin.inc" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="../LIBRWOF/ttutil/rdndat.gin" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="../LIBRWOF/ttutil/rdndec.gin" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="../LIBRWOF/ttutil/rdrecinf.inc" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="../LIBRWOF/ttutil/rdstainf.inc" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="../LIBRWOF/ttutil/rdtblinf.inc" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="../LIBRWOF/ttutil/recread.inc" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="../LIBRWOF/ttutil/ttutil_win32.for" ex="false" tool="2" flavor2="0">
+      </item>
+      <item path="../LIBRWOF/ttutil/wr_sys.inc" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="../Lintul6vr.for" ex="false" tool="2" flavor2="0">
+      </item>
+      <item path="../SOURCENEW/Cropv6.for" ex="false" tool="2" flavor2="0">
+      </item>
+      <item path="../SOURCENEW/Dailout6.for" ex="false" tool="2" flavor2="0">
+      </item>
+      <item path="../SOURCENEW/INITP6.for" ex="false" tool="2" flavor2="0">
+      </item>
+      <item path="../SOURCENEW/LINTULSUB.for" ex="false" tool="2" flavor2="0">
+      </item>
+      <item path="../SOURCENEW/STOUT6.for" ex="false" tool="2" flavor2="0">
+      </item>
+      <item path="../SOURCENEW/SWEAF.for" ex="false" tool="2" flavor2="0">
+      </item>
+      <item path="../SOURCENEW/Timer6.for" ex="false" tool="2" flavor2="0">
+      </item>
+      <item path="../SOURCENEW/WATBALS6.for" ex="false" tool="2" flavor2="0">
+      </item>
+      <item path="../SOURCENEW/WEATHR.for" ex="false" tool="2" flavor2="0">
+      </item>
+    </conf>
+  </confs>
+</configurationDescriptor>

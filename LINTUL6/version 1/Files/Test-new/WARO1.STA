@@ -1,0 +1,21 @@
+
+
+
+*** RESULTS OF CROP GROWTH MODEL LINTUL6 for rotations *** SUMMARY OF OUTPUT FOR CROP GROWTH, YIELD, WATER BALANCE AND NITROGEN UPTAKE *** (components of water balance are cumulative values from  start of rotation to harvest date per crop)
+
+Name of run: WARO1, Station= WAGE , Soil=   1, Rotat=   1, StYear= 1969, StDay=   1, NYEAR=   5, Runof= 0.00, CO2= 370.
+ Wageningen, rotation 1                                                          
+
+
+YEAR  CROP  IOPT  IRRI  MANA  PL   EMERG FLOW  HALT    WSO       TAGB   HI  PARAB  RUE   RD  WAV  WAVL  WAVLX  RAIN  ESOIL TRANS  DRAIN RUNOF  IRR     WUE  NUPT  NFIX    NLIV   NLOSS    NUE  TRANRF   NNI  
+1969     1     1     1     1     0   330   161   218     8385.  16571. 0.51  773.  2.14  125.  133.    0.   37. 1104.  454.   281.  419.    0.   70.  2.26  144.0    0.0  137.2   15.2  110.9   1.00   1.00
+1971     2     1     1     1   100   114   179   297    11291.  18304. 0.62  686.  2.67  120.  125.    0.   45. 1898.  717.   525.  801.    0.  164.  3.61  246.7    0.0  117.5  129.0   89.5   1.00   1.00
+1971     1     1     1     1     0   330   160   221     8505.  16131. 0.53  836.  1.93  125.  173.    0.   37. 2474.  802.   812.  963.    0.  164.  4.33  145.2    0.0  137.9   15.0  109.5   1.00   1.00
+1973     4     2     0     1   100   135   149   246     6298.  10136. 0.62  770.  1.32   50.   20.    0.  150. 3090.  980.   977. 1278.    0.  164.  2.96  165.6    0.0  108.4   60.7   65.1   0.63   1.00
+1973                                                     6298.  10136. 0.62               53.   80.  108.   37. 3379. 1019.   978. 1471.    0.  164.
+
+ MEANS for   4 crops  :
+                                50.  227.  162.  246.    8620.  15285. 0.57  766.  2.01  105.  113.    0.   67.  845.  255.   244.  368.    0.   41.  3.29  175.4    0.0  125.2   55.0   93.8   0.91   1.00
+
+ MEANS over   5 years  :
+                                40.  182.  130.  196.    6896.  12228. 0.45  613.  1.61   84.   90.    0.   54.  676.  204.   196.  294.    0.   33.  2.63  140.3    0.0  100.2   44.0   75.0   0.73   0.80

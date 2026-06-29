@@ -1,0 +1,126 @@
+
+
+
+*** RESULTS OF CROP GROWTH MODEL LINTUL6 for rotations *** SUMMARY OF OUTPUT FOR CROP GROWTH, YIELD, WATER BALANCE AND NITROGEN UPTAKE *** (components of water balance are cumulative values from  start of rotation to harvest date per crop)
+
+Name of run: WARO1, Station= WAGE , Soil=   1, Rotat=   5, StYear= 1969, StDay=   1, NYEAR=   4, Runof= 0.00, CO2= 370.
+ Wageningen, rotation 1, soil1, current                                          
+
+
+YEAR  CROP  IOPT  IRRI  MANA  PL   EMERG FLOW  HALT    WSO       TAGB   HI  PARAB  RUE   RD  WAV  WAVL  WAVLX  RAIN  ESOIL TRANS  DRAIN RUNOF  IRR     WUE  NUPT  NFIX    NLIV   NLOSS    NUE  TRANRF   NNI  
+1969     2     1     1     1   100   120   180   285    11644.  18885. 0.62  692.  2.73  120.  135.    0.   45.  531.  230.   284.  137.    0.  149.  3.68  254.3    0.0  125.9  128.4   90.0   1.00   1.00
+1970     3     1     1     1   120   133   207   290     9189.  21776. 0.42  664.  3.28  100.  146.    0.   75. 1253.  403.   536.  445.    0.  202.  5.13  197.9    0.0  164.0   36.0  113.2   1.00   1.00
+1971     6     1     1     1   100   112   176   259     8723.  16879. 0.52  869.  1.94  100.   50.    0.   75. 1858.  523.   859.  723.    0.  222.  3.81   58.3  233.4  236.7   56.7   65.3   1.00   1.00
+1972     2     1     1     1   100   123   189   290    10603.  17366. 0.61  649.  2.68  120.  153.    0.   45. 2564.  741.  1065.  963.    0.  253.  4.10  244.3    0.0  134.6  109.7   85.9   1.00   1.00
+1972                                                    10603.  17366. 0.61              120.  180.    0.   45. 2684.  748.  1065. 1049.    0.  253.
+
+ MEANS for   4 crops  :
+                               105.  122.  188.  281.   10040.  18726. 0.54  718.  2.66  110.  121.    0.   60.  671.  187.   266.  262.    0.   63.  4.18  188.7   58.3  165.3   82.7   88.6   1.00   1.00
+
+ MEANS over   4 years  :
+                               105.  122.  188.  281.   10040.  18726. 0.54  718.  2.66  110.  121.    0.   60.  671.  187.   266.  262.    0.   63.  4.18  188.7   58.3  165.3   82.7   88.6   1.00   1.00
+
+
+
+*** RESULTS OF CROP GROWTH MODEL LINTUL6 for rotations *** SUMMARY OF OUTPUT FOR CROP GROWTH, YIELD, WATER BALANCE AND NITROGEN UPTAKE *** (components of water balance are cumulative values from  start of rotation to harvest date per crop)
+
+Name of run: WAR02, Station= WAGE , Soil=   1, Rotat=   6, StYear= 1969, StDay=   1, NYEAR=   4, Runof= 0.00, CO2= 370.
+ Wageningen, rotation 2, soil1, current                                          
+
+
+YEAR  CROP  IOPT  IRRI  MANA  PL   EMERG FLOW  HALT    WSO       TAGB   HI  PARAB  RUE   RD  WAV  WAVL  WAVLX  RAIN  ESOIL TRANS  DRAIN RUNOF  IRR     WUE  NUPT  NFIX    NLIV   NLOSS    NUE  TRANRF   NNI  
+1969     2     2     2     1   100   120   180   285    11099.  18233. 0.61  690.  2.64  120.  118.    0.   45.  531.  216.   269.   94.    0.   60.  3.76  249.9    0.0  123.4  126.5   88.4   0.99   1.00
+1970     3     2     2     1   120   133   207   290     9158.  21617. 0.42  660.  3.28  100.  146.    0.   75. 1253.  375.   519.  408.    0.  120.  5.29  195.5    0.0  162.0   35.5  113.6   1.00   1.00
+1971     6     2     2     1   100   112   176   259     8723.  16879. 0.52  869.  1.94  100.   76.    0.   75. 1858.  495.   842.  700.    0.  180.  3.81   58.3  233.4  236.7   56.7   65.3   1.00   1.00
+1972     2     2     2     1   100   123   189   290    10603.  17366. 0.61  649.  2.68  120.  156.    0.   45. 2564.  710.  1048.  994.    0.  240.  4.13  244.3    0.0  134.6  109.7   85.9   1.00   1.00
+1972                                                    10603.  17366. 0.61              120.  180.    0.   45. 2684.  717.  1048. 1084.    0.  240.
+
+ MEANS for   4 crops  :
+                               105.  122.  188.  281.    9896.  18523. 0.54  717.  2.63  110.  124.    0.   60.  671.  179.   262.  271.    0.   60.  4.25  187.0   58.3  164.2   82.1   88.3   1.00   1.00
+
+ MEANS over   4 years  :
+                               105.  122.  188.  281.    9896.  18523. 0.54  717.  2.63  110.  124.    0.   60.  671.  179.   262.  271.    0.   60.  4.25  187.0   58.3  164.2   82.1   88.3   1.00   1.00
+
+
+
+*** RESULTS OF CROP GROWTH MODEL LINTUL6 for rotations *** SUMMARY OF OUTPUT FOR CROP GROWTH, YIELD, WATER BALANCE AND NITROGEN UPTAKE *** (components of water balance are cumulative values from  start of rotation to harvest date per crop)
+
+Name of run: WARO3, Station= WAGE , Soil=   1, Rotat=   7, StYear= 1969, StDay=   1, NYEAR=   4, Runof= 0.00, CO2= 370.
+ Wageningen, rotation 3, soil1, current                                          
+
+
+YEAR  CROP  IOPT  IRRI  MANA  PL   EMERG FLOW  HALT    WSO       TAGB   HI  PARAB  RUE   RD  WAV  WAVL  WAVLX  RAIN  ESOIL TRANS  DRAIN RUNOF  IRR     WUE  NUPT  NFIX    NLIV   NLOSS    NUE  TRANRF   NNI  
+1969     2     3     0     2   100   120   180   272        0.      0. NaN     0. NaN    120.  128.    0.   45.  528.  314.    98.   94.    0.    0.  0.00    0.0    0.0    0.0    0.0    0.0   0.99   0.68
+1970     3     3     0     2   120   133   207   290     7192.  17413. 0.41  538.  3.24  100.  147.    0.   75. 1253.  536.   299.  346.    0.    0.  4.11  154.0    0.0  127.4   28.6  115.5   0.99   0.80
+1971     6     3     0     2   100   112   176   259     5507.  12934. 0.43  745.  1.74  100.   46.    0.   75. 1858.  693.   578.  616.    0.    0.  2.97   55.1  220.4  226.4   50.8   52.4   1.00   0.62
+1972     2     3     0     2   100   123   189   290     3992.   6216. 0.64  245.  2.54  120.  170.    0.   45. 2563. 1009.   658.  832.    0.    0.  1.57   88.3    0.0   50.8   37.6   84.4   1.00   0.68
+1972                                                     3992.   6216. 0.64              120.  179.    0.   45. 2684. 1024.   658.  928.    0.    0.
+
+ MEANS for   4 crops  :
+                               105.  122.  188.  278.    4173.   9141. NaN   382. NaN    110.  123.    0.   60.  671.  256.   164.  232.    0.    0.  2.16   74.3   55.1  101.2   29.2   63.1   0.99   0.70
+
+ MEANS over   4 years  :
+                               105.  122.  188.  278.    4173.   9141. NaN   382. NaN    110.  123.    0.   60.  671.  256.   164.  232.    0.    0.  2.16   74.3   55.1  101.2   29.2   63.1   0.99   0.70
+
+
+
+*** RESULTS OF CROP GROWTH MODEL LINTUL6 for rotations *** SUMMARY OF OUTPUT FOR CROP GROWTH, YIELD, WATER BALANCE AND NITROGEN UPTAKE *** (components of water balance are cumulative values from  start of rotation to harvest date per crop)
+
+Name of run: WARO4, Station= WAGE , Soil=   2, Rotat=   5, StYear= 1969, StDay=   1, NYEAR=   4, Runof= 0.10, CO2= 550.
+ Wageningen, rotation 1, soil1, future                                           
+
+
+YEAR  CROP  IOPT  IRRI  MANA  PL   EMERG FLOW  HALT    WSO       TAGB   HI  PARAB  RUE   RD  WAV  WAVL  WAVLX  RAIN  ESOIL TRANS  DRAIN RUNOF  IRR     WUE  NUPT  NFIX    NLIV   NLOSS    NUE  TRANRF   NNI  
+1969     2     1     1     1   100   116   169   260    13741.  21934. 0.63  678.  3.23  120.  222.    0.   66.  519.  206.   293.   62.   52.  128.  4.39  281.4    0.0  146.1  135.3   94.9   1.00   1.00
+1970     3     1     1     1   120   131   191   264    11158.  24968. 0.45  667.  3.74  100.  161.    0.  110. 1217.  361.   562.  324.  122.  168.  5.90  227.0    0.0  188.8   40.2  115.5   1.00   1.00
+1971     6     1     1     1   100   110   165   240    10386.  19574. 0.53  815.  2.40  100.  102.    0.  109. 1853.  486.   875.  528.  185.  178.  4.46   60.8  243.2  245.1   60.5   73.7   1.00   1.00
+1972     2     1     1     1   100   116   177   283    14351.  22255. 0.64  684.  3.25  120.  220.    0.   66. 2564.  687.  1111.  657.  256.  178.  5.09  268.7    0.0  129.9  138.8  100.3   1.00   1.00
+1972                                                    14351.  22255. 0.64              120.  264.    0.   66. 2685.  697.  1111.  712.  269.  178.
+
+ MEANS for   4 crops  :
+                               105.  118.  176.  262.   12409.  22183. 0.56  711.  3.16  110.  176.    0.   88.  671.  174.   278.  178.   67.   44.  4.96  209.5   60.8  177.5   93.7   96.1   1.00   1.00
+
+ MEANS over   4 years  :
+                               105.  118.  176.  262.   12409.  22183. 0.56  711.  3.16  110.  176.    0.   88.  671.  174.   278.  178.   67.   44.  4.96  209.5   60.8  177.5   93.7   96.1   1.00   1.00
+
+
+
+*** RESULTS OF CROP GROWTH MODEL LINTUL6 for rotations *** SUMMARY OF OUTPUT FOR CROP GROWTH, YIELD, WATER BALANCE AND NITROGEN UPTAKE *** (components of water balance are cumulative values from  start of rotation to harvest date per crop)
+
+Name of run: WARO5, Station= WAGE , Soil=   2, Rotat=   6, StYear= 1969, StDay=   1, NYEAR=   4, Runof= 0.10, CO2= 550.
+ Wageningen, rotation 2, soil1, future                                           
+
+
+YEAR  CROP  IOPT  IRRI  MANA  PL   EMERG FLOW  HALT    WSO       TAGB   HI  PARAB  RUE   RD  WAV  WAVL  WAVLX  RAIN  ESOIL TRANS  DRAIN RUNOF  IRR     WUE  NUPT  NFIX    NLIV   NLOSS    NUE  TRANRF   NNI  
+1969     2     2     2     1   100   116   169   260    13309.  21431. 0.62  677.  3.17  120.  174.    0.   66.  519.  205.   282.   54.   52.   60.  4.40  281.0    0.0  146.8  134.3   92.8   0.99   1.00
+1970     3     2     2     1   120   131   191   264    11156.  24947. 0.45  667.  3.74  100.  182.    0.  110. 1217.  360.   551.  268.  122.  120.  5.90  226.8    0.0  188.7   40.1  115.4   1.00   1.00
+1971     6     2     2     1   100   110   165   240    10386.  19574. 0.53  815.  2.40  100.  152.    0.  109. 1853.  485.   864.  493.  185.  180.  4.46   60.8  243.2  245.1   60.5   73.7   1.00   1.00
+1972     2     2     2     1   100   116   177   283    14351.  22255. 0.64  684.  3.25  120.  238.    0.   66. 2564.  690.  1100.  709.  256.  240.  5.05  268.7    0.0  129.9  138.8  100.3   1.00   1.00
+1972                                                    14351.  22255. 0.64              120.  264.    0.   66. 2685.  700.  1100.  782.  269.  240.
+
+ MEANS for   4 crops  :
+                               105.  118.  176.  262.   12301.  22052. 0.56  711.  3.14  110.  186.    0.   88.  671.  175.   275.  195.   67.   60.  4.95  209.3   60.8  177.6   93.4   95.6   1.00   1.00
+
+ MEANS over   4 years  :
+                               105.  118.  176.  262.   12301.  22052. 0.56  711.  3.14  110.  186.    0.   88.  671.  175.   275.  195.   67.   60.  4.95  209.3   60.8  177.6   93.4   95.6   1.00   1.00
+
+
+
+*** RESULTS OF CROP GROWTH MODEL LINTUL6 for rotations *** SUMMARY OF OUTPUT FOR CROP GROWTH, YIELD, WATER BALANCE AND NITROGEN UPTAKE *** (components of water balance are cumulative values from  start of rotation to harvest date per crop)
+
+Name of run: WARO6, Station= WAGE , Soil=   2, Rotat=   7, StYear= 1969, StDay=   1, NYEAR=   4, Runof= 0.10, CO2= 550.
+ Wageningen, rotation 3, soil1, future                                           
+
+
+YEAR  CROP  IOPT  IRRI  MANA  PL   EMERG FLOW  HALT    WSO       TAGB   HI  PARAB  RUE   RD  WAV  WAVL  WAVLX  RAIN  ESOIL TRANS  DRAIN RUNOF  IRR     WUE  NUPT  NFIX    NLIV   NLOSS    NUE  TRANRF   NNI  
+1969     2     3     0     2   100   116   169   256        0.      0. NaN     0. NaN    120.  178.    0.   66.  518.  319.   104.   55.   52.    0.  0.00    0.0    0.0    0.0    0.0    0.0   0.99   0.66
+1970     3     3     0     2   120   131   191   264     9345.  21363. 0.44  586.  3.65  100.  140.    0.  110. 1216.  540.   336.  223.  122.    0.  4.72  188.6    0.0  156.5   34.1  117.7   0.99   0.80
+1971     6     3     0     2   100   110   165   240     6743.  15084. 0.45  709.  2.13  100.  103.    0.  109. 1852.  704.   609.  397.  185.    0.  3.45   57.3  229.0  234.2   53.7   59.5   1.00   0.63
+1972     2     3     0     2   100   116   177   272        0.      0. NaN     0. NaN    120.  258.    0.   66. 2563. 1030.   699.  510.  256.    0.  0.00    0.0    0.0    0.0    0.0    0.0   1.01   0.65
+1972                                                        0.      0. NaN               120.  263.    0.   66. 2684. 1051.   699.  592.  268.    0.
+
+ MEANS for   4 crops  :
+                               105.  118.  176.  258.    4022.   9112. NaN   324. NaN    110.  170.    0.   88.  671.  263.   175.  148.   67.    0.  2.04   61.5   57.3   97.7   22.0   44.3   1.00   0.68
+
+ MEANS over   4 years  :
+                               105.  118.  176.  258.    4022.   9112. NaN   324. NaN    110.  170.    0.   88.  671.  263.   175.  148.   67.    0.  2.04   61.5   57.3   97.7   22.0   44.3   1.00   0.68
